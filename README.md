@@ -1,2 +1,2 @@
 # dimensionalideas.github.io
-<a href="dimensionalideas.github.io/index.html">dimensionalideas.github.io</a>
+<a href="https://dimensionalideas.github.io/index.html">dimensionalideas.github.io</a>
