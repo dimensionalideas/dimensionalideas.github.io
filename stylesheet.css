@@ -127,6 +127,9 @@ body {
   padding: 10px;
   text-align: center;
 }
+.lik {
+  color: black;
+}
 //noteo
 
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:700|Playfair+Display");
