@@ -20,6 +20,14 @@ var quotes = [
 	'\"Oh I\'m sure he has. It\'s just your standard haunted campus, alien abduction, and alligator in a sewer gig.\" <br> - Dean Winchester (S02E15 - Tall Tales)',
 	'Sam: \"How would you feel if I screwed up the Impala?\" <br> Dean: \"Would be the last thing you\'d do.\" <br> - Sam and Dean Winchester (S02E15 - Tall Tales)',
 	'\"Look, man, I- I know that all this has to be so hard. <br> But, I want to know... I\'m here for you. <br> You brave little soldier. I acknowledge your pain. <br> C\'mere. <br> <b>Too precious for this world</b>.\" <br> - Sam Winchester (S02E15 - Tall Tales)',
+	'Dean:\"What\'s wrong with my food?\" <br> Sam: \"It\'s not food anymore, Dean. It\'s Darwinism!\" <br> - Sam and Dean Winchester (S02E15 - Tall Tales)',
+	'\"I mean, these punishments, there almost poetic. Actually, it\'d be more like a limerick, but still...\" <br> - Dean Winchester (S02E15 - Tall Tales)',
+	'Sam: \"Dude, I\'m not enabling your sick habit. You\'re like one of those lab rats that pushes the pleasure button instead of the food button until it dies.\" Dean: \"What are you talking about? I eat.\" <br> - Sam and Dean Winchester (S02E13 - Houses of the Holy)',
+	'\"Well, I think I learned a valuable lesson: Always take down your Christmas decorations after New Year\'s, or you might get filleted by a hooker from God.\" <br> - Dean Winchester (S01E13 - Houses of the Holy)',
+	'\"I\'m laughing on the inside.\" <br> - Sam Winchester (S02E13 - Houses of the Holy)',
+	'Father Reynolds: \"What are you doing? What is this?\" <br> Sam: \"Uh, Father, please. I can explain. Um... Actually, maybe I can\'t. This is a - a séance.\" <br> Father Reynolds: \"A séance? Young man, you are in the House of God.\" <br> Sam: It\'s based on early Christian rites, if that helps any.\" <br> - Sam Winchester and Father Reynolds (S02E13 - Houses of the Holy)',
+	'\"NO, no. This is a demon or a spirit, you know they find people a few fries short of a happy meal and they trick them into killing these randoms.\" - Dean Winchester (S02E13 - Houses of the Holy)',
+	'Father Reynolds: \"So you\'re interested in joining the parish?\" <br> Dean: \"Yeah, well, you know, we just don\'t feel right unless with hit Church every Sunday.\" - Dean Winchester and Father Reynolds (S02E13 - Houses of the Holy)',
 	]
 function newQuote() {
 	var randomNumber = Math.floor(Math.random() * (quotes.length));
