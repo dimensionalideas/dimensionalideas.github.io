@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Pompiere');
 @import url('https://fonts.googleapis.com/css?family=Chelsea+Market');
 @import url('https://fonts.googleapis.com/css?family=PT+Serif');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:700|Playfair+Display");
 h1 {
   font-family: 'Special Elite', cursive;
   font-size: 40px;
@@ -122,17 +123,16 @@ body {
 }
 .yeolde {
   margin: auto;
-  width: 50%;
+  width: 90%;
   border: 2px solid black;
   padding: 10px;
   text-align: center;
+  font-size: 120%;
 }
 .lik {
   color: black;
 }
 //noteo
-
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:700|Playfair+Display");
 
 * {
 	user-select: none;
@@ -206,8 +206,8 @@ img {
 	color: #A0A6AB;
 	font-family: "Playfair Display", serif;
 	font-weight: 400;
-	font-size: 1.2rem;
-	line-height: 1.55rem;
+	font-size: 140%;
+	line-height: 2rem;
 }
 
 .btn,
@@ -223,7 +223,7 @@ a.btn {
 	background: #000;
 	color: white;
 	font-family: "Chelsea Market", sans-serif;
-	font-size: .8rem;
+	font-size: 1.5rem;
 	box-shadow: 0 0px 0px rgba(48, 51, 54, 0.1), 0 0px 0px transparent;
 }
 
